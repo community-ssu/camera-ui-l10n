@@ -9,7 +9,7 @@ Package: osso-camera-ui-l10n-mr0
 Section: misc
 Architecture: all
 Provides: osso-camera-ui-l10n-mr
-Depends: osso-camera-ui-l10n-ruru, osso-camera-ui-l10n-frfr, osso-camera-ui-l10n-frca, osso-camera-ui-l10n-dadk, osso-camera-ui-l10n-itit, osso-camera-ui-l10n-svse, osso-camera-ui-l10n-nono, osso-camera-ui-l10n-fifi, osso-camera-ui-l10n-nlnl, osso-camera-ui-l10n-enus, osso-camera-ui-l10n-dede, osso-camera-ui-l10n-esmx, osso-camera-ui-l10n-eses, osso-camera-ui-l10n-cscz, osso-camera-ui-l10n-ptpt, osso-camera-ui-l10n-engb, osso-camera-ui-l10n-plpl
+Depends: osso-camera-ui-l10n-ruru (>= ${binary:Version}), osso-camera-ui-l10n-frfr (>= ${binary:Version}), osso-camera-ui-l10n-frca (>= ${binary:Version}), osso-camera-ui-l10n-dadk (>= ${binary:Version}), osso-camera-ui-l10n-itit (>= ${binary:Version}), osso-camera-ui-l10n-svse (>= ${binary:Version}), osso-camera-ui-l10n-nono (>= ${binary:Version}), osso-camera-ui-l10n-fifi (>= ${binary:Version}), osso-camera-ui-l10n-nlnl (>= ${binary:Version}), osso-camera-ui-l10n-enus (>= ${binary:Version}), osso-camera-ui-l10n-dede (>= ${binary:Version}), osso-camera-ui-l10n-esmx (>= ${binary:Version}), osso-camera-ui-l10n-eses (>= ${binary:Version}), osso-camera-ui-l10n-cscz (>= ${binary:Version}), osso-camera-ui-l10n-ptpt (>= ${binary:Version}), osso-camera-ui-l10n-engb (>= ${binary:Version}), osso-camera-ui-l10n-plpl (>= ${binary:Version})
 Description: osso-camera-ui marketing release package
  This is a metapackage for osso-camera-ui to pull all the l10n packages.
  Application developers of osso-camera-ui should depend on
